@@ -1,6 +1,5 @@
 # Tapestryproj
-
-**TODO: Add description**
+Implemented the Tapestry algorithm mentioned in https://pdos.csail.mit.edu/~strib/docs/tapestry/tapestry_jsac03.pdf paper using actor modeling in elixir.
 
 ## Installation
 
